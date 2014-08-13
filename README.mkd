@@ -1,0 +1,30 @@
+# jQuery.hideNavbarOnScroll.js
+
+Hide Navbar on Scroll plugin for jQuery 1.11.1 and Bootstrap 3.2.0
+
+# Syntax
+
+```
+
+$('.navbar').hideNavbarOnScroll()
+
+```
+
+# Options
+
+```
+
+$('.navbar').hideNavbarOnScroll({
+	'deltaBeforeHide' : 5,
+	'hideSpeed'       : 0.4,
+});
+
+```
+
+# Author
+
+- Antonio Gomez-Maldonado - [@fractma](https://twitter.com/fractma)
+
+# License
+
+[MIT License](http://opensource.org/licenses/MIT) - Fork, modify and use however you want.
