@@ -1,16 +1,32 @@
-# jQuery.hideNavbarOnScroll.js
+## jQuery.hideNavbarOnScroll.js
 
 Hide Navbar on Scroll plugin for jQuery 1.11.1 and Bootstrap 3.2.0
 
-# Syntax
+Just 2KB Minified!
+
+## Version
+
+1.0
+
+## Usage
+
+Add the plugin to your homepage after including jQuery:
 
 ```
 
-$('.navbar').hideNavbarOnScroll()
+<script src="jquery.hideNavbarOnScroll.min.js"></script>
 
 ```
 
-# Options
+This can be initialized with the default options like:
+
+```
+
+$('.navbar').hideNavbarOnScroll();
+
+```
+
+Or with two custom options as following:
 
 ```
 
