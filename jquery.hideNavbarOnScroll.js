@@ -1,6 +1,6 @@
 /*
 *
-*  jQuery Hide Navbar on Scroll plugin for jQuery 1.11.1 and Bootstrap 3.2.0
+*  Hide Navbar on Scroll plugin for jQuery 1.11.1 and Bootstrap 3.2.0
 *  v1.0
 *  ---
 *  Copyright 2014, Antonio Gómez-Maldonado (http://antoniogomez.me)
